@@ -8,3 +8,7 @@
 
 ### count = 7の場合
 ![demo](./media/sierpinski_gasket_7.png)
+
+### 環境
+- python3.8
+- turtle graphics
